@@ -15,7 +15,7 @@ actions:
     type: primary
 
   - text: 我的项目 💐
-    link: 
+    link: https://openai.gaga.plus/
 
 highlights:
   - header: 
