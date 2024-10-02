@@ -10,12 +10,12 @@ category:
 
 ## 个人信息
 
-- 姓名
-- 电话
-- 邮箱
-- 毕业时间
-- 工作时间
-- Github：https://github.com/fuzhengwei
+- 姓名：洪睿
+- 电话：15374302850
+- 邮箱：1169948065@qq.com
+- 毕业时间：2025年
+- 工作时间：2025年
+- Github：https://github.com/hongruizzz2
 - 开源项目：[vo2dto](https://bugstack.cn/md/product/idea-plugin/vo2dto.html) - IDEA Plugin 自动转换对象插件，5.4k 下载使用
 
 ## 毕业院校
